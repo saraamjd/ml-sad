@@ -130,8 +130,9 @@ Code is released under the **MIT License** ([`LICENSE`](LICENSE)). The
 de-identified data in `data/` is released under **CC BY 4.0**
 ([`data/LICENSE`](data/LICENSE)), consistent with the article's CC BY license.
 
-> **Note on data sharing.** The published data-availability statement shares the
-> study data *on request* to the corresponding author. Releasing the
-> de-identified tables in this repository publicly is broader than that
-> statement, so confirm it is covered by the study's ethics approval and
-> participant consent before making the data public.
+> **Note on data sharing.** The article's published data-availability statement
+> offers the study data *on request* to the corresponding author. The
+> de-identified tables in this repository are released publicly under that
+> study's ethics approval and participant consent, which cover sharing
+> de-identified data. They must not be used to attempt re-identification or for
+> individual clinical diagnosis.
