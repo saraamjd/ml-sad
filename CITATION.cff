@@ -15,7 +15,7 @@ authors:
 version: 1.0.0
 date-released: "2026-11-23"
 license: MIT
-repository-code: "https://github.com/<your-account>/ml-sad"  # TODO: set after pushing
+repository-code: "https://github.com/saraamjd/ml-sad"
 preferred-citation:
   type: article
   title: "A machine learning web application for screening social anxiety disorder based on participants' emotion regulation (ML-SAD)"
