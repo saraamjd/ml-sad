@@ -114,12 +114,24 @@ for individual diagnosis.
 
 ## Citation
 
-If you use this code or data, please cite the study — see
-[`CITATION.cff`](CITATION.cff). **TODO:** fill in the final authors, title,
-venue, year and DOI once published.
+If you use this code or data, please cite the article:
+
+> Ahmadi Majd, S., Parsaeian, M. R., Madani, M., Moradi, H., & Mohammadi, A.
+> (2025). *A machine learning web application for screening social anxiety
+> disorder based on participants' emotion regulation (ML-SAD).* Frontiers in
+> Robotics and AI, 12, 1620609. https://doi.org/10.3389/frobt.2025.1620609
+
+A machine-readable `CITATION.cff` is included. The article is open access under
+**CC BY**.
 
 ## License
 
 Code is released under the **MIT License** ([`LICENSE`](LICENSE)). The
 de-identified data in `data/` is released under **CC BY 4.0**
-([`data/LICENSE`](data/LICENSE)).
+([`data/LICENSE`](data/LICENSE)), consistent with the article's CC BY license.
+
+> **Note on data sharing.** The published data-availability statement shares the
+> study data *on request* to the corresponding author. Releasing the
+> de-identified tables in this repository publicly is broader than that
+> statement, so confirm it is covered by the study's ethics approval and
+> participant consent before making the data public.

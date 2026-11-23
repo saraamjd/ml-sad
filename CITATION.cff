@@ -1,10 +1,38 @@
 cff-version: 1.2.0
-message: "If you use this software or data, please cite the ML-SAD study."
+message: "If you use this software or data, please cite the ML-SAD article."
 title: "ML-SAD: Machine-Learning Screening of Social Anxiety Disorder from Emotion-Regulation Strategies"
 authors:
   - family-names: "Ahmadi Majd"
     given-names: "Sara"
+  - family-names: "Parsaeian"
+    given-names: "Mohamad Rasoul"
+  - family-names: "Madani"
+    given-names: "Mohsen"
+  - family-names: "Moradi"
+    given-names: "Hadi"
+  - family-names: "Mohammadi"
+    given-names: "Abolfazl"
 version: 1.0.0
 date-released: "2026-11-23"
 license: MIT
-# TODO: add final author list, journal/conference, year, and DOI once published.
+repository-code: "https://github.com/<your-account>/ml-sad"  # TODO: set after pushing
+preferred-citation:
+  type: article
+  title: "A machine learning web application for screening social anxiety disorder based on participants' emotion regulation (ML-SAD)"
+  authors:
+    - family-names: "Ahmadi Majd"
+      given-names: "Sara"
+    - family-names: "Parsaeian"
+      given-names: "Mohamad Rasoul"
+    - family-names: "Madani"
+      given-names: "Mohsen"
+    - family-names: "Moradi"
+      given-names: "Hadi"
+    - family-names: "Mohammadi"
+      given-names: "Abolfazl"
+  journal: "Frontiers in Robotics and AI"
+  year: 2025
+  month: 9
+  volume: 12
+  doi: "10.3389/frobt.2025.1620609"
+  url: "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1620609/full"
