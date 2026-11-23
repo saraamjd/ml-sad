@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ml-sad"
+version = "1.0.0"
+description = "Machine-learning screening of Social Anxiety Disorder from emotion-regulation strategies"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [{ name = "Sara Ahmadi Majd" }]
+keywords = ["social anxiety", "machine learning", "screening", "emotion regulation", "psychometrics"]
+dependencies = [
+    "numpy>=1.23",
+    "pandas>=1.5",
+    "scipy>=1.9",
+    "scikit-learn>=1.2",
+    "statsmodels>=0.13",
+    "factor_analyzer>=0.4",
+    "matplotlib>=3.6",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

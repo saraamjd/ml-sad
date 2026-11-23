@@ -1,0 +1,28 @@
+# ---------------------------------------------------------------------------
+# Raw, identifying survey data must NEVER be committed. Keep it outside the repo.
+# ---------------------------------------------------------------------------
+*.rawjson
+fileV206*.json
+socialanxietyusers*.json
+questionnaire*.json
+raw/
+data_prediction.csv
+# Anything accidentally dropped at the repo root
+/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

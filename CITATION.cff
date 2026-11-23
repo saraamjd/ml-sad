@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the ML-SAD study."
+title: "ML-SAD: Machine-Learning Screening of Social Anxiety Disorder from Emotion-Regulation Strategies"
+authors:
+  - family-names: "Ahmadi Majd"
+    given-names: "Sara"
+version: 1.0.0
+date-released: "2026-11-23"
+license: MIT
+# TODO: add final author list, journal/conference, year, and DOI once published.

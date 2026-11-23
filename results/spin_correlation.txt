@@ -1,0 +1,19 @@
+SPIN severity distribution:
+spin_severity
+moderate       36
+severe         34
+mild           26
+minimal        21
+very_severe    11
+
+Correlation matrix (Pearson):
+             suppression  avoidance  reappraisal  spin_total
+suppression        1.000      0.632        0.125       0.347
+avoidance          0.632      1.000       -0.274       0.565
+reappraisal        0.125     -0.274        1.000      -0.410
+spin_total         0.347      0.565       -0.410       1.000
+
+Spearman (strategy vs spin_total):
+  suppression : 0.349
+  avoidance   : 0.562
+  reappraisal : -0.384
